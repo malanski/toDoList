@@ -7,7 +7,7 @@
   
 <div align="center">
 <img alt="Base camp JavaScript Course badge" title="Base camp JavaScript Course badge" width="100px" src="coursebadge.png">
-<img alt="Bootcamp Badge" title="Bootcamp Badge" width="100px" src="https://hermes.digitalinnovation.one/tracks/3c8be628-5138-4b63-9cfa-e5313cc03103.png">
+<img alt="Bootcamp Badge" title="Bootcamp Badge" width="100px" src="TQIbadge.png">
 
 </div>
 
